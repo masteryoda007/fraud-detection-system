@@ -113,3 +113,49 @@ experiments/
 phase*/data/
 phase*/models/
 phase*/.env
+
+---
+
+## 👨‍💻 Portfolio Project by Sreekumar Prathap
+
+### 🎯 This Project Demonstrates My Expertise In:
+
+✅ **Advanced Machine Learning**: Production-grade ensemble methods with 99%+ AUC  
+✅ **Explainable AI**: SHAP integration for regulatory compliance  
+✅ **Production Systems**: Real-time fraud scoring with <100ms latency  
+✅ **Full-Stack Development**: End-to-end ML application development  
+✅ **Domain Expertise**: Deep understanding of fraud detection challenges  
+✅ **Business Acumen**: Balancing accuracy, explainability, and user experience  
+
+### 🔗 Connect With the Creator
+
+**Sreekumar Prathap** - Senior ML Engineer & Fraud Detection Specialist
+
+- 💼 **LinkedIn**: [sreekumar-prathap-22b36a13](https://www.linkedin.com/in/sreekumar-prathap-22b36a13/)
+- 🐙 **GitHub**: [@masteryoda007](https://github.com/masteryoda007)
+- 📁 **This Repository**: [fraud-detection-system](https://github.com/masteryoda007/fraud-detection-system)
+
+### 💼 Professional Capabilities Demonstrated
+
+This fraud detection system showcases skills directly applicable to:
+- **Senior ML Engineer roles** in fintech and fraud prevention
+- **AI/ML consulting** for financial institutions  
+- **Production ML system development** with regulatory compliance
+- **Advanced analytics and explainable AI** implementation
+
+### 🏆 Key Achievements in This Project
+
+- **99.6% AUC Performance**: Advanced ensemble methods with proper validation
+- **Real-time Processing**: Sub-100ms prediction latency for production use
+- **Explainable AI**: SHAP integration meeting regulatory requirements
+- **Production Ready**: Error handling, cost controls, cross-platform deployment
+- **Business Focus**: User-friendly interface with natural language explanations
+
+**Interested in discussing how I can apply this expertise to your organization's ML challenges?**
+
+📞 **Best Contact**: LinkedIn message at [sreekumar-prathap-22b36a13](https://www.linkedin.com/in/sreekumar-prathap-22b36a13/)
+
+---
+
+*Built with professional ML engineering expertise by Sreekumar Prathap*  
+*© 2025 - Portfolio Project Showcasing Advanced AI/ML Capabilities*
