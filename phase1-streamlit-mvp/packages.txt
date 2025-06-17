@@ -1,0 +1,6 @@
+# System packages needed for Streamlit Cloud deployment
+# These ensure LightGBM and other compiled packages install correctly
+
+build-essential
+cmake
+libgomp1
