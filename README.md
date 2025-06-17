@@ -159,3 +159,12 @@ This fraud detection system showcases skills directly applicable to:
 
 *Built with professional ML engineering expertise by Sreekumar Prathap*  
 *© 2025 - Portfolio Project Showcasing Advanced AI/ML Capabilities*
+
+## 🚀 Getting Started
+
+**Quick Setup Options:**
+- **🐍 Data Scientists**: See [SETUP.md](SETUP.md#-conda-setup-recommended) for conda setup
+- **📦 Developers**: See [SETUP.md](SETUP.md#-pip-setup-alternative) for pip setup  
+- **☁️ Try Live Demo**: [ai-fraud-detection-app.streamlit.app](https://ai-fraud-detection-app.streamlit.app)
+
+**Full Documentation**: [SETUP.md](SETUP.md)
