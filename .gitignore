@@ -227,3 +227,10 @@ logs/
 TODO.md
 personal_notes.md
 ideas.txt
+
+# Local development files
+local/
+*_commands.sh
+*_organization.sh
+temp_*
+my_*
