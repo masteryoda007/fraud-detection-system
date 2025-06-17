@@ -1,6 +1,42 @@
 """
 🔒 AI Fraud Detection System - Phase 1: Production-Grade MVP
 
+Project by Sreekumar Prathap
+
+This project demonstrates advanced ML engineering capabilities including:
+- Production-grade ensemble methods (XGBoost, Random Forest, LightGBM)
+- SHAP explainability for regulatory compliance
+- Vector similarity search with FAISS optimization
+- AI-powered conversational interface
+- Real-time fraud scoring with <100ms latency
+- Comprehensive feature engineering (60+ features)
+
+Technical Highlights:
+✅ 99%+ AUC performance with proper validation
+✅ Handles severe class imbalance (0.17% fraud rate)
+✅ Production-ready error handling and fallbacks
+✅ Cost-controlled OpenAI integration
+✅ Cross-platform deployment automation
+
+👨‍💻 Author: Sreekumar Prathap
+🔗 LinkedIn: https://www.linkedin.com/in/sreekumar-prathap-22b36a13/
+🐙 GitHub: https://github.com/masteryoda007
+📁 Repository: https://github.com/masteryoda007/fraud-detection-system
+
+💼 Showcasing Skills In:
+- Advanced Machine Learning & Ensemble Methods
+- Explainable AI & Model Interpretability  
+- Production ML System Development
+- Full-Stack Application Development
+- Business-Focused AI Solutions
+
+This system represents professional-level ML engineering capabilities
+suitable for senior ML engineer roles and fraud detection consulting.
+
+Built with expertise in Python, ML algorithms, production systems, and fintech domain knowledge.
+© 2025 Sreekumar Prathap - Portfolio Project
+
+
 This is Phase 1 of my 4-phase fraud detection platform. Started building this after 
 getting tired of legacy systems that flag grocery purchases as fraud while missing 
 obvious fraudulent patterns. 
