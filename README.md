@@ -1,4 +1,4 @@
-markdown# 🔒 AI Fraud Detection Platform
+# 🔒 AI Fraud Detection Platform
 
 *A comprehensive 4-phase fraud detection system built from real-world frustrations with legacy solutions*
 
